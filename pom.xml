@@ -18,7 +18,7 @@
         <version.commons.lang>2.6</version.commons.lang>
         <version.commons.httpcomponents>4.3.6</version.commons.httpcomponents>
         <!-- Fasterxml.Jackson -->
-        <version.fasterxml.jackson>2.6.0</version.fasterxml.jackson>
+        <version.fasterxml.jackson>2.8.11</version.fasterxml.jackson>
     </properties>
     <dependencies>
         <!-- springmvc -->
